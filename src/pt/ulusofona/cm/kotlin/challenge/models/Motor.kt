@@ -1,7 +1,5 @@
 package pt.ulusofona.cm.kotlin.challenge.models
 
-import pt.ulusofona.cm.kotlin.challenge.Pessoa
-
 class Motor(var cavalos: Int,var cilindrada: Int) {
 
 

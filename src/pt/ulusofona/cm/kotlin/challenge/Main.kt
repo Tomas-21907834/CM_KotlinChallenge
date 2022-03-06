@@ -1,9 +1,6 @@
 package pt.ulusofona.cm.kotlin.challenge
 
-import pt.ulusofona.cm.kotlin.challenge.models.Bicicleta
-import pt.ulusofona.cm.kotlin.challenge.models.Carro
-import pt.ulusofona.cm.kotlin.challenge.models.Date
-import pt.ulusofona.cm.kotlin.challenge.models.Motor
+import pt.ulusofona.cm.kotlin.challenge.models.*
 
 
 fun main() {

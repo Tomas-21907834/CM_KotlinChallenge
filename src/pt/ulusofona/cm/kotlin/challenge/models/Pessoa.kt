@@ -1,13 +1,4 @@
-package pt.ulusofona.cm.kotlin.challenge
-
-import pt.ulusofona.cm.kotlin.challenge.exceptions.VeiculoNaoEncontradoException
-import pt.ulusofona.cm.kotlin.challenge.models.Date
-import pt.ulusofona.cm.kotlin.challenge.models.Veiculo
-import java.lang.Exception
-
-
-
-
+package pt.ulusofona.cm.kotlin.challenge.models
 
 
 class Pessoa(var nome: String, var dataDeNascimento: Date) {
