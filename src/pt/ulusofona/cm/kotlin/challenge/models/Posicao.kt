@@ -1,9 +1,6 @@
 package pt.ulusofona.cm.kotlin.challenge.models
 
-
-
-class Posicao(var x: Int,var y: Int) {
-
+class Posicao(var x: Int,var y: Int)  {
 
     fun alterarPosicaoPara(x: Int, y: Int) {
 
@@ -15,6 +12,4 @@ class Posicao(var x: Int,var y: Int) {
     override fun toString(): String {
         return "${Posicao::class.simpleName?.capitalize()} | x:$x | y:$y"
     }
-
-
 }
